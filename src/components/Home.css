@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+    /* color: rgb(155, 186, 186); */
+}
+.home_page{
+    color: red;
+    align-items: center;
+    justify-content: center;
+}
